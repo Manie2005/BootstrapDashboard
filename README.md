@@ -1,2 +1,2 @@
-# Fashion-Website
-A simple beginner fashion website landing page
+# BOOTSTRAP-DASHBOARD
+A simple beginner dashboard
